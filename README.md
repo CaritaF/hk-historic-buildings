@@ -28,7 +28,7 @@ The second row computes a filtered version of the list by checking the bookmark.
 
 <img src="screenshots/annotation.png" alt="annotation" width="200"/>
 
-Aother map for map-lover is showed when the tab of map is clicked. It shows locations of all buildings in the list. The logo of chosen location is scaled larger than other.
+Another map for map-lover is showed when the tab of map is clicked. It shows locations of all buildings in the list. The logo of chosen location is scaled larger than other.
 
 <img src="screenshots/location.png" alt="location" width="200"/>
 
